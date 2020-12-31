@@ -1,2 +1,2 @@
 # OpenCV-Projects
-This repository contains my various OpenCV Projects.
+This repository contains all the basics required to get started with OpenCV
